@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gptrequest",
+  "private_key_id": "bcfab14af94562cd13d003cdec04c95cb5209dd3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCWhBUh33xjTpQk\nvhrPcBMR6/evt7VcQWZFAPXnsM4OV5Chy9c+NyAOVuek0sabrOxyUKtkQAe4YHZ0\nc/rQh0vT0ohsYaQSNZnVl13nOlTXGLLKMFb2mKazxRfiPjX8sITMuqyCJz3mZo9e\nOwZJSlKq29uqES3++Ni9FycumHphQ7flIBvp7LabwEy6wFW6ogk11OEWDuY9usRY\n/KVDsKW+3ffj0cSyXpocR5JOLlWk871+YuvUPBdYb0RIkWCYx2TcyaD+UX9nb9Tb\nBUZfM4taPE1j2WX38trNNFzZlVuaAAwf1GraWYWnC2u7ChORk2916jqy4jO7qhQr\n0VeG6z67AgMBAAECggEAEXlfHLId9keComthoHCR/jQnasKIrx+2mE8+vTnFClw3\nIdmQ8RukQJXtSbDgtuUSBEmCRF68praoOefXGAuFDZ/1D6QcULLhW685iyU2AUzQ\nQPHwvqtFOzyoA6+WQ/JYUI5hhbC5mnyQq29t0OdshoKE048wCFhqjTVZaqrwFkeB\nRfEMP0AVxj/xX0mUEB4nGndDA6Gfvarui3k/XYFIe0+O7IZBi2IS0utB3eDQYwVb\nvB9/gxJOkacbm22KlQkoosip4v+wTWaVziGm/5+6XAf5zLtJ3CfeYajdIWS2Zro8\njAKsM3yQuWFlw4ENeFMEvOlaP/ow6RyWriAQ6cnMZQKBgQDHZvBLf3RP3Hlp1odT\n92q8z3ujWSLnQ5xBly/3zhF4OJCAxPLQTSq23DjL5iBmp5DXk+KFkxgKFjMi3+Or\nxQGBhEOfAjdUPX3vyKrAMTOEyfdEpDQ7hDG0/ZVrIYfQhFLey9qGYufg1UQ46iAc\np++Tv8imxFOL9DdkSu5dXPg5TQKBgQDBPPO7V9X0cEAnIsX5aV9UlrhYCU/QGPef\n/8RFd1l/B8Gn58TCLFG1W0ZqtwigE8lk0JGsItTTgXe6B1Ex2vcbdBHnjMesg96B\n6G5wRDdOugwkvE+qsq7GgZHDBpKOHWkZzgFBAZIsSEtKRWNC5AnOJ3vDF+CSXqOQ\n0ML6XuKUJwKBgGY75929hiPf9TwHarDpPId7lXdlnxiVOIsEeeqCc8CAt83drGSR\n++FvPYuE/H3FUeTFhLFZfkzFnwg1ZCRQSHpgFs9ysm11bZk/+BO75h8h8a32xnTx\nTQ7vqOkZcum8vkROnkaidSJ4FZdcqoQmshW9kaG3LOKnnrLEHDwwC3BNAoGAKwfp\ntrROnspIXu6ta2b9pZaSonggX9TPf7+y800qjtEpXLyN4jeAUoRq3+S2dP8y/9I6\nPjzba+YOxUxP1mxOTrzAJ/H/nPkYmZEq1rE6J7vibGPK0dZMeUPtM6LJDACcoPRw\n7wrshBPtQDLHcePaEyBTvRQaHD4a6mqyoJJ0nk0CgYAyJgTE1EaUtxY7OAo9p3ju\nI3zQJ2wIotSdJE5ogTtB7F4leCh31COzBEwOsoETwKm/GXQMbm2KnJ64YoFJBaJf\n/iYVg7fu6aHRTFZF2dVQ/KkD/HctHPzuFF7FSfhxmCxZfq5wlkzv8snszJUTXczQ\nbYApWM3k00cZXzAR1bVM1w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gpt-integration@gptrequest.iam.gserviceaccount.com",
+  "client_id": "116944944045010189081",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gpt-integration%40gptrequest.iam.gserviceaccount.com"
+}

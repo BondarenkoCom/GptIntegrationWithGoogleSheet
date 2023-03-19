@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GptIntegrationWithGoogleSheet", "GptIntegrationWithGoogleSheet\GptIntegrationWithGoogleSheet.csproj", "{FFFF4FFC-67AA-41F3-9DE2-FD114E190427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFF4FFC-67AA-41F3-9DE2-FD114E190427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFF4FFC-67AA-41F3-9DE2-FD114E190427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFF4FFC-67AA-41F3-9DE2-FD114E190427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFF4FFC-67AA-41F3-9DE2-FD114E190427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {580B8978-2794-4007-B895-285244842202}
+	EndGlobalSection
+EndGlobal
